@@ -2,11 +2,11 @@
 
 ## Equipo de desarrollo
 
-Adriel González Carmona - 010211972 (SCRUM MASTER)
-Román Gutiérrez Guillén - 010211992 (DEVELOPER)
-Azul Fernanda Soto Terán - 010212224 (DEVELOPER)
-Leslie Berenice Plata Hernández - 190219329 (TESTER Y DEVELOPER)
-Lizbeth Carmona Orea - 010212016 (DESIGNER)
+Adriel González Carmona - 010211972
+Román Gutiérrez Guillén - 010211992
+Azul Fernanda Soto Terán - 010212224
+Leslie Berenice Plata Hernández - 190219329
+Lizbeth Carmona Orea - 010212016
 
 ## Información general
 
